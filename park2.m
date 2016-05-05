@@ -1,8 +1,6 @@
-/*Name : Jeongsu Park 
-  Assignment #2
-  Class : CSC 3210
-  Professor : Chaoyang Li
-  Due date : Feb. 11st. 2016 */
+/*
+summation from -5 to 5, =x^3+4x^2-13x
+*/
   
 define(x_r, l0)
 define(y_r, l1)
